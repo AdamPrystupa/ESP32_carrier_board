@@ -2829,6 +2829,336 @@
 		)
 		(uuid "ffe96c86-c086-46c3-bd4e-9953d1e80255")
 	)
+	(label "GND"
+		(at 200.66 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "062b9086-493d-4eb4-b29d-774e04e82d27")
+	)
+	(label "VIN"
+		(at 200.66 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "06ccf688-0f21-47c9-80c4-4641f771fc29")
+	)
+	(label "CS"
+		(at 200.66 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "11a34ed2-351b-4d70-8d65-37855da2548c")
+	)
+	(label "SCL"
+		(at 200.66 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1843009e-6f21-4620-8352-1c813372ae90")
+	)
+	(label "SDA"
+		(at 200.66 48.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1985a688-c102-4d53-b701-a16d3d85f012")
+	)
+	(label "SCL"
+		(at 200.66 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "221f3a9d-3ce1-4005-8bb6-707343e50029")
+	)
+	(label "VCC"
+		(at 200.66 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "38e41b0f-5cf5-49b1-a405-9f1a545c38a3")
+	)
+	(label "GND"
+		(at 200.66 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b1a8d7b-f36f-47cf-b2e1-cb5e72e1ef82")
+	)
+	(label "3V3"
+		(at 200.66 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "43b4935a-2834-4ab4-b0ce-a565b7d32322")
+	)
+	(label "SDA"
+		(at 200.66 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "46a2466a-1f56-47ea-bf22-f0b6ac3de17d")
+	)
+	(label "SDA"
+		(at 200.66 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "85cd747b-b2b4-46ea-b00d-4419c2b35301")
+	)
+	(label "CS"
+		(at 200.66 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8b1f8282-b54f-43f1-8096-097b15683cf7")
+	)
+	(label "SCL"
+		(at 200.66 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8cc6817c-4a16-4110-b30d-7070a31fb9d7")
+	)
+	(label "INT"
+		(at 200.66 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "950fa83f-8311-4450-b0db-6a989f6ce444")
+	)
+	(label "3V3"
+		(at 200.66 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9a87ebff-7696-4718-b2c5-4e29aa31e764")
+	)
+	(label "SCK"
+		(at 200.66 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9c7a4d6f-31f0-4e6f-a3e8-d821775790cb")
+	)
+	(label "GND"
+		(at 200.66 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a3a9cfff-fe58-4c2f-a5c2-482588bb480d")
+	)
+	(label "SDO"
+		(at 200.66 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a3cd7024-47bc-4fde-8a9b-85acfd2dfe87")
+	)
+	(label "GND"
+		(at 200.66 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a3d104b1-cb79-4c27-9042-f7f6db8f55d8")
+	)
+	(label "VIN"
+		(at 200.66 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ab28a5bf-610c-4e6a-b576-5a09801f13ce")
+	)
+	(label "CSB"
+		(at 200.66 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b045c9fb-d97b-4ae8-a47b-32716425f35f")
+	)
+	(label "SDO"
+		(at 200.66 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b45867bf-84d1-482b-8e21-1e3abc67d37d")
+	)
+	(label "GND"
+		(at 200.66 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c1a5496f-3bf6-462f-a532-f641eac92b5e")
+	)
+	(label "SDA"
+		(at 200.66 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c1f0940e-e281-4f0c-b1a7-7c25ce4e6f94")
+	)
+	(label "3V3"
+		(at 200.66 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c3a0b454-9f66-4bb7-ac13-41ced807fab1")
+	)
+	(label "SCL"
+		(at 200.66 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cee8a65f-9071-42f7-a322-a0b76dfeec50")
+	)
+	(label "SDI"
+		(at 200.66 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d0e408a6-01fa-4162-8fad-e975a1983e87")
+	)
+	(label "3V3"
+		(at 200.66 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d32b3f74-cc4e-432c-b737-15723fe44102")
+	)
+	(label "GENERATOR_OUTPUT"
+		(at 200.66 135.89 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left bottom)
+		)
+		(uuid "d64b28ab-6d08-4b5a-99f1-abbb51b43304")
+	)
+	(label "ADD"
+		(at 200.66 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f46e21f7-262b-4b53-9e81-80d6747be261")
+	)
+	(label "INT"
+		(at 200.66 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fbf1e714-af9d-45c7-ace1-66d45ff64d1b")
+	)
+	(label "INT"
+		(at 200.66 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ff092326-26ef-4137-9a22-80cc6460d0fc")
+	)
+	(label "GND"
+		(at 200.66 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ffb70d1f-5af1-485e-ad66-bead25a20bcf")
+	)
 	(symbol
 		(lib_id "ESP32-S3-DEVKITC-1-N8R2:ESP32-S3-DEVKITC-1-N8R2")
 		(at 144.78 91.44 0)
