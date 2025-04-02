@@ -1,0 +1,9 @@
+Manufacturer=Honeywell
+PartNumber=SS49E
+PartCategory=Integrated Circuit
+PackageCategory=Transistor Outline, Vertical
+PinCount=3
+Version=2.1
+Released=2016-02-04 06:53:19
+Downloaded=2025-04-02 13:48:11
+3D=Y

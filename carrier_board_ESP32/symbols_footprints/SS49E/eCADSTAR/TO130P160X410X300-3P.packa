@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SS49E"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-11-15-13:35:18)
+    (mountForm default
+        (footprintRef "TO130P160X410X300-3P")
+        (spec "System")
+    )
+)

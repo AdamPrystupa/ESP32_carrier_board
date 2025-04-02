@@ -1,0 +1,72 @@
+(Japanese_coding: sjis)
+(function "ECS_913987"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-09-20-14:16:42)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType POWER))
+        (port "2" (symbPinId 2) (portType OUTPUT))
+        (port "3" (symbPinId 3) (portType GROUND))
+    )
+    (property "symbolName" "SS41F")
+)
+
+
+(pinAssign "ECS_913987"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-09-20-14:16:42)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "VDD") (portType POWER))
+        (port "2" (symbPinId 2) (portName "OUT") (portType OUTPUT))
+        (port "3" (symbPinId 3) (portName "GND") (portType GROUND))
+    )
+    (internal
+        (funcInst (functionRef "ECS_913987")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SS41F")
+)
+
+
+(part "SS41F"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-09-20-14:16:42)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "SS41F")
+    (pinAssignRef "ECS_913987")
+    (interface
+        (port "1" (symbPinId 1) (portName "VDD") (portType POWER))
+        (port "2" (symbPinId 2) (portName "OUT") (portType OUTPUT))
+        (port "3" (symbPinId 3) (portName "GND") (portType GROUND))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Q")
+    (property "description" "Hall effect sensor")
+    (property "Manufacturer_Name" "Honeywell")
+    (property "Manufacturer_Part_Number" "SS41F")
+    (property "Mouser_Part_Number" "785-SS41F")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Honeywell/SS41F?qs=%2Ffq2y7sSKcKYHwRh5bjaxw%3D%3D")
+    (property "Arrow_Part_Number" "SS41F")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/ss41f/honeywell?utm_currency=USD&region=nac")
+    (property "Datasheet_Link" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/ca8af7f7e2a50d26dc9657fb5e1dc6e8.pdf")
+    (property "compAreaTopHeight" 1.52)
+)
+
+

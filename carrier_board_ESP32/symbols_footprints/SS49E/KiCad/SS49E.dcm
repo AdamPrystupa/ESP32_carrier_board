@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SS49E
+D Honeywell Ratiometric Hall Effect Sensor switching current 1.5 mA supply voltage 2.7  6.5 V dc
+K
+F http://uk.rs-online.com/web/p/products/2362760
+$ENDCMP
+#
+#End Doc Library

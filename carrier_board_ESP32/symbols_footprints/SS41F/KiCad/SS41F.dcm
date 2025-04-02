@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SS41F
+D Hall effect sensor
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/ca8af7f7e2a50d26dc9657fb5e1dc6e8.pdf
+$ENDCMP
+#
+#End Doc Library

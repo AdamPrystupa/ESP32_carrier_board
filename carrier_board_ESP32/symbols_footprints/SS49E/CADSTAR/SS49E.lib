@@ -1,0 +1,17 @@
+.SS49E :1 ;Honeywell Ratiometric Hall Effect Sensor switching current 1.5 mA supply voltage 2.7  6.5 V dc
+TO130P160X410X300-3P
+*STM IC
+*NGS
+*PLB 1="+" 2="-" 3="O"
+*MXP 3
+*DFN SS49E
+~!RS Part Number (2362760)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/2362760)
+~!Manufacturer_Name (Honeywell)
+~!Manufacturer_Part_Number (SS49E)
+~!Allied_Number (70238606)
+~!Link Datasheet (http://uk.rs-online.com/web/p/products/2362760)
+~!Height (1.6mm)
+~!3D_Model (SS49E)
+SS49E
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Honeywell
+PartNumber=SS41F
+PartCategory=Transistor
+PackageCategory=Transistor Outline, Vertical
+PinCount=3
+Version=4.3
+Released=2017-09-20 14:16:42
+Downloaded=2025-04-02 13:15:45
+3D=Y

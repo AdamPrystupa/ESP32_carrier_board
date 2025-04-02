@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SS41F'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Honeywell", "SS41F" (!) = "", "TO127P152X400X500-3P", "Transistor Outline, Vertical", "785-SS41F", "https://www.mouser.co.uk/ProductDetail/Honeywell/SS41F?qs=%2Ffq2y7sSKcKYHwRh5bjaxw%3D%3D", "SS41F", "https://www.arrow.com/en/products/ss41f/honeywell?utm_currency=USD&region=nac", "Hall effect sensor", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/ca8af7f7e2a50d26dc9657fb5e1dc6e8.pdf", "1.52 mm"
+END_PART
+
+END.

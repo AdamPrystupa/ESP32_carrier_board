@@ -1,0 +1,18 @@
+.SS41F :1 ;Hall effect sensor
+TO127P152X400X500-3P
+*STM Q
+*NGS
+*PLB 1="VDD" 2="OUT" 3="GND"
+*MXP 3
+*DFN SS41F
+~!Manufacturer_Name (Honeywell)
+~!Manufacturer_Part_Number (SS41F)
+~!Mouser Part Number (785-SS41F)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Honeywell/SS41F?qs=%2Ffq2y7sSKcKYHwRh5bjaxw%3D%3D)
+~!Arrow Part Number (SS41F)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ss41f/honeywell?utm_currency=USD&region=nac)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/ca8af7f7e2a50d26dc9657fb5e1dc6e8.pdf)
+~!Height (1.52mm)
+~!3D_Model (SS41F)
+SS41F
+1.1!P 2.1!Y 3.1!G 

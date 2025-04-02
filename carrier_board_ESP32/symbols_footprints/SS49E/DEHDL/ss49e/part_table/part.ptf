@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SS49E'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "ALLIED_NUMBER", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Honeywell", "SS49E" (!) = "", "TO130P160X410X300-3P", "Transistor Outline, Vertical", "2362760", "http://uk.rs-online.com/web/p/products/2362760", "70238606", "Honeywell Ratiometric Hall Effect Sensor switching current 1.5 mA supply voltage 2.7  6.5 V dc", "http://uk.rs-online.com/web/p/products/2362760", "1.6 mm"
+END_PART
+
+END.
