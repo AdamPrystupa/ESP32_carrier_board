@@ -162,7 +162,7 @@
 	(footprint "ESP32-S3-DEVKITC-1-N8R2:XCVR_ESP32-S3-DEVKITC-1-N8R2"
 		(layer "F.Cu")
 		(uuid "265e8d00-beae-42f4-983c-0ea04b6ef5ed")
-		(at 147.57 86.13)
+		(at 70.57 56.69)
 		(property "Reference" "U1"
 			(at -9.775 -39.605 0)
 			(layer "F.SilkS")
@@ -1258,5 +1258,16 @@
 			(solder_mask_margin 0.102)
 			(uuid "5ca4f8af-9b15-4147-a928-f9d1d90084de")
 		)
+	)
+	(gr_rect
+		(start 21 18.5)
+		(end 121 118.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "22de2e06-dbd0-47a1-8084-e5d9be3f3f77")
 	)
 )
