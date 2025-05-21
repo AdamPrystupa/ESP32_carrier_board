@@ -233,6 +233,10 @@
         {
           "diameter": 1.0,
           "drill": 0.5
+        },
+        {
+          "diameter": 1.5,
+          "drill": 0.8
         }
       ],
       "zones_allow_external_fillets": false
@@ -616,7 +620,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "../../",
-      "plot": "",
+      "plot": "fab/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "carrier_board_ESP32.step",
